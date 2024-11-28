@@ -15,8 +15,7 @@ The 8 weeks SQL challenge consists of a series of case studies designed to test 
 -
 -
 
-Feel free to explore my solutions and provide feedback. If you'd like to collaborate or have any questions, don't hesitate to reach out
-###### Connect with Me [LinkedIn](https://www.linkedin.com/in/muminahabdulkadir)
+Feel free to explore my solutions and provide feedback. If you'd like to collaborate or have any questions, don't hesitate to reach out to me on *[LinkedIn](https://www.linkedin.com/in/muminahabdulkadir)*
 
 ###### Credit:
 Special thanks to [Data with Danny](https://www.linkedin.com/company/datawithdanny/)
