@@ -380,4 +380,4 @@ WITH membership AS(
 1. Conduct a survey, promotional email or campaign targeting Customer C to understand their limited visits and spending habits. Encourage repeat visits from customer C with targeted loyalty rewards or discounts.
 2. Ensure Ramen is consistently well-stocked to meet customer demand, given its popularity among customers.
 3. Offer special discounts, promotions or incentives for frequent visitors to strengthen loyalty and encourage continued patronage.
-4.  
+  
